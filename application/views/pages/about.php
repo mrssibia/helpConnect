@@ -1,1 +1,1 @@
-About US
+This is the about page
